@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "techlounges",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "8fa94997-a943-4a97-a5b6-c27512fd4559",
+      "database_name": "techlounges-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
